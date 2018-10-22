@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Petre Bogdan",
+    "company": "Trip",
+    "phone":"111-222-3333"
+  },
+  {
+    "id":2,
+    "name":"Petre Rares",
+    "company": "Scoala",
+    "phone":"444-555-6666"
+  },
+  {
+    "id":3,
+    "name":"Petre Monica",
+    "company": "Muzeu",
+    "phone":"666-777-8888"
+  }
+]
